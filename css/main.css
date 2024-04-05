@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.while {
+    color: #fff;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+body {
+    padding: 20px;
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.center {
+    text-align: center;
+}
